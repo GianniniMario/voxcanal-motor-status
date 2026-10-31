@@ -1,7 +1,7 @@
 {
- "quando": "2026-10-30T13:16-03:00",
- "geral": "verde",
- "achados": 480,
- "erros_dosp": 0,
- "boletim": "BOLETIM_2026-10-30_1316.md"
+ "quando": "2026-10-30T22:08-03:00",
+ "geral": "vermelho",
+ "achados": 107,
+ "erros_dosp": 1,
+ "boletim": "BOLETIM_2026-10-30_2208.md"
 }
