@@ -1,7 +1,7 @@
 {
- "quando": "2026-11-07T12:57-03:00",
- "geral": "verde",
- "achados": 317,
+ "quando": "2026-11-07T22:03-03:00",
+ "geral": "vermelho",
+ "achados": 13,
  "erros_dosp": 0,
- "boletim": "BOLETIM_2026-11-07_1257.md"
+ "boletim": "BOLETIM_2026-11-07_2203.md"
 }
