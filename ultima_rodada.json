@@ -1,7 +1,16 @@
 {
- "quando": "2026-11-21T14:03-03:00",
- "geral": "vermelho",
- "achados": 13,
+ "quando": "2026-11-21T15:43-03:00",
+ "geral": "verde",
+ "achados": 0,
  "erros_dosp": 0,
- "boletim": "BOLETIM_2026-11-21_1403.md"
+ "boletim": "BOLETIM_capital_2026-11-21_1543.md",
+ "ultimo_motor": "capital",
+ "motores": {
+  "capital": {
+   "quando": "2026-11-21T15:43-03:00",
+   "geral": "verde",
+   "achados": 0
+  }
+ },
+ "obs": "Desde 21/11/2026: seis motores de SP (capital, cidades, estadual, autarquias, municipios, federal)."
 }
