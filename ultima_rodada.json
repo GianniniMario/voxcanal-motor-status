@@ -3,9 +3,14 @@
  "geral": "verde",
  "achados": 0,
  "erros_dosp": 0,
- "boletim": "BOLETIM_estadual_2026-11-21_1740.md",
- "ultimo_motor": "estadual",
+ "boletim": "BOLETIM_autarquias_2026-11-21_1740.md",
+ "ultimo_motor": "autarquias",
  "motores": {
+  "autarquias": {
+   "quando": "2026-11-21T17:40-03:00",
+   "geral": "verde",
+   "achados": 0
+  },
   "capital": {
    "quando": "2026-11-21T15:43-03:00",
    "geral": "verde",
