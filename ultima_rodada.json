@@ -1,9 +1,9 @@
 {
- "quando": "2026-11-21T17:43-03:00",
+ "quando": "2026-11-21T18:24-03:00",
  "geral": "verde",
- "achados": 1,
+ "achados": 3,
  "erros_dosp": 0,
- "boletim": "BOLETIM_estadual_2026-11-21_1743.md",
+ "boletim": "BOLETIM_estadual_2026-11-21_1824.md",
  "ultimo_motor": "estadual",
  "motores": {
   "autarquias": {
@@ -22,9 +22,9 @@
    "achados": 0
   },
   "estadual": {
-   "quando": "2026-11-21T17:43-03:00",
+   "quando": "2026-11-21T18:24-03:00",
    "geral": "verde",
-   "achados": 0
+   "achados": 2
   },
   "federal": {
    "quando": "2026-11-21T17:41-03:00",
