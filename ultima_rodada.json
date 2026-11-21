@@ -3,8 +3,8 @@
  "geral": "verde",
  "achados": 1,
  "erros_dosp": 0,
- "boletim": "BOLETIM_municipios_2026-11-21_1741.md",
- "ultimo_motor": "municipios",
+ "boletim": "BOLETIM_federal_2026-11-21_1741.md",
+ "ultimo_motor": "federal",
  "motores": {
   "autarquias": {
    "quando": "2026-11-21T17:40-03:00",
@@ -23,6 +23,11 @@
   },
   "estadual": {
    "quando": "2026-11-21T17:40-03:00",
+   "geral": "verde",
+   "achados": 0
+  },
+  "federal": {
+   "quando": "2026-11-21T17:41-03:00",
    "geral": "verde",
    "achados": 0
   },
