@@ -1,10 +1,10 @@
 {
  "grupo": "municipios",
  "titulo": "Notícias dos demais Municípios do Estado de São Paulo",
- "quando": "2026-11-23T09:41-03:00",
+ "quando": "2026-11-23T19:10-03:00",
  "geral": "verde",
  "motivo": "todas as fontes lidas",
- "achados": 25,
- "segundos": 152,
- "boletim": "BOLETIM_municipios_2026-11-23_0941.md"
+ "achados": 220,
+ "segundos": 498,
+ "boletim": "BOLETIM_municipios_2026-11-23_1910.md"
 }
