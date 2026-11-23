@@ -1,10 +1,10 @@
 {
  "grupo": "autarquias",
  "titulo": "Notícias de Autarquias do Estado de São Paulo",
- "quando": "2026-11-21T23:00-03:00",
+ "quando": "2026-11-23T18:59-03:00",
  "geral": "verde",
  "motivo": "todas as fontes lidas",
- "achados": 0,
- "segundos": 3,
- "boletim": "BOLETIM_autarquias_2026-11-21_2300.md"
+ "achados": 10,
+ "segundos": 25,
+ "boletim": "BOLETIM_autarquias_2026-11-23_1859.md"
 }
