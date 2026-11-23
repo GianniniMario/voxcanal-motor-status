@@ -1,10 +1,10 @@
 {
- "quando": "2026-11-21T23:00-03:00",
+ "quando": "2026-11-23T09:39-03:00",
  "geral": "verde",
  "achados": 1,
  "erros_dosp": 0,
- "boletim": "BOLETIM_autarquias_2026-11-21_2300.md",
- "ultimo_motor": "autarquias",
+ "boletim": "BOLETIM_cidades_2026-11-23_0939.md",
+ "ultimo_motor": "cidades",
  "motores": {
   "autarquias": {
    "quando": "2026-11-21T23:00-03:00",
@@ -17,7 +17,7 @@
    "achados": 0
   },
   "cidades": {
-   "quando": "2026-11-21T22:34-03:00",
+   "quando": "2026-11-23T09:39-03:00",
    "geral": "verde",
    "achados": 0
   },
