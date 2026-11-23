@@ -1,10 +1,10 @@
 {
  "grupo": "estadual",
  "titulo": "Notícias Estaduais - Estado de São Paulo",
- "quando": "2026-11-21T22:42-03:00",
+ "quando": "2026-11-23T18:45-03:00",
  "geral": "verde",
  "motivo": "todas as fontes lidas",
- "achados": 0,
- "segundos": 4,
- "boletim": "BOLETIM_estadual_2026-11-21_2242.md"
+ "achados": 7,
+ "segundos": 16,
+ "boletim": "BOLETIM_estadual_2026-11-23_1845.md"
 }
