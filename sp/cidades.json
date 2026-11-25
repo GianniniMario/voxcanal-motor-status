@@ -1,10 +1,10 @@
 {
  "grupo": "cidades",
  "titulo": "Notícias de Municípios - Campinas, Ribeirão Preto e Sorocaba",
- "quando": "2026-11-25T01:34-03:00",
- "geral": "verde",
- "motivo": "todas as fontes lidas",
- "achados": 1,
+ "quando": "2026-11-25T09:38-03:00",
+ "geral": "amarelo",
+ "motivo": "rodada parcial",
+ "achados": 0,
  "segundos": 12,
- "boletim": "BOLETIM_cidades_2026-11-25_0134.md"
+ "boletim": "BOLETIM_cidades_2026-11-25_0938.md"
 }
