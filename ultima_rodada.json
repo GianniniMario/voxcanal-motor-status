@@ -1,10 +1,10 @@
 {
- "quando": "2026-11-25T16:51-03:00",
+ "quando": "2026-11-25T16:56-03:00",
  "geral": "amarelo",
- "achados": 230,
+ "achados": 112,
  "erros_dosp": 0,
- "boletim": "BOLETIM_autarquias_2026-11-25_1651.md",
- "ultimo_motor": "autarquias",
+ "boletim": "BOLETIM_municipios_2026-11-25_1656.md",
+ "ultimo_motor": "municipios",
  "motores": {
   "autarquias": {
    "quando": "2026-11-25T16:51-03:00",
@@ -32,9 +32,9 @@
    "achados": 1
   },
   "municipios": {
-   "quando": "2026-11-25T09:39-03:00",
+   "quando": "2026-11-25T16:56-03:00",
    "geral": "amarelo",
-   "achados": 221
+   "achados": 103
   }
  },
  "obs": "Desde 21/11/2026: seis motores de SP (capital, cidades, estadual, autarquias, municipios, federal)."
