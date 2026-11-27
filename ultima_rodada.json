@@ -1,13 +1,13 @@
 {
- "quando": "2026-11-27T00:50-03:00",
+ "quando": "2026-11-27T01:02-03:00",
  "geral": "verde",
  "achados": 440,
  "erros_dosp": 0,
- "boletim": "BOLETIM_estadual_2026-11-27_0050.md",
- "ultimo_motor": "estadual",
+ "boletim": "BOLETIM_autarquias_2026-11-27_0102.md",
+ "ultimo_motor": "autarquias",
  "motores": {
   "autarquias": {
-   "quando": "2026-11-26T16:29-03:00",
+   "quando": "2026-11-27T01:02-03:00",
    "geral": "verde",
    "achados": 7
   },
