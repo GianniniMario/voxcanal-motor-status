@@ -1,10 +1,10 @@
 {
- "quando": "2026-11-27T09:41-03:00",
+ "quando": "2026-11-27T16:08-03:00",
  "geral": "amarelo",
- "achados": 216,
+ "achados": 217,
  "erros_dosp": 0,
- "boletim": "BOLETIM_municipios_2026-11-27_0941.md",
- "ultimo_motor": "municipios",
+ "boletim": "BOLETIM_capital_2026-11-27_1608.md",
+ "ultimo_motor": "capital",
  "motores": {
   "autarquias": {
    "quando": "2026-11-27T01:02-03:00",
@@ -12,9 +12,9 @@
    "achados": 7
   },
   "capital": {
-   "quando": "2026-11-27T00:43-03:00",
+   "quando": "2026-11-27T16:08-03:00",
    "geral": "verde",
-   "achados": 0
+   "achados": 1
   },
   "cidades": {
    "quando": "2026-11-27T09:40-03:00",
