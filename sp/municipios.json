@@ -1,10 +1,10 @@
 {
  "grupo": "municipios",
  "titulo": "Notícias dos demais Municípios do Estado de São Paulo",
- "quando": "2026-11-27T09:41-03:00",
+ "quando": "2026-11-27T16:30-03:00",
  "geral": "amarelo",
  "motivo": "rodada parcial",
- "achados": 204,
- "segundos": 83,
- "boletim": "BOLETIM_municipios_2026-11-27_0941.md"
+ "achados": 103,
+ "segundos": 175,
+ "boletim": "BOLETIM_municipios_2026-11-27_1630.md"
 }
